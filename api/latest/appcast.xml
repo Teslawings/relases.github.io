@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>ConsoleApp1</title>
+        <language>en</language>
+        <item>
+            <title>ConsoleApp1 1.0.0</title>
+            <pubDate>Fri, 02 Apr 2021 21:32:48 +08:00</pubDate>
+            <enclosure url="https://teslawings.github.io/releases/api/latest/ConsoleApp1 1.0.0.zip" sparkle:version="1.0.0" sparkle:shortVersionString="1.0" length="72223" sparkle:os="windows" type="application/zip" sparkle:signature="ouayWHSliHn7gRcmyUB6zgud+0aVkEBOOLPlf+sIBdKiepyc4jmvyrhpWNxb1YqSEfEtGeRQs84ZUXWi6kuKAQ==" />
+        </item>
+    </channel>
+</rss>
