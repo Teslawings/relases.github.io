@@ -2,11 +2,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
    <channel>
       <title>My Cleveland Clinic - Appcast</title>
+      <link>https://netsparkleupdater.github.io/NetSparkle/files/sample-app/appcast.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
       <item>
          <title>Version 1.15.0</title>
-         <description>Cleveland Clinic Patient App</description>
+         <description>Teslawings API</description>
+         <sparkle:releaseNotesLink>https://teslawings.github.io/releases/api/latest/release-notes.md</sparkle:releaseNotesLink>
          <pubDate>Wed, 23 Oct 2019 12:00:00 +0000</pubDate>
-         <enclosure url="https://play.google.com/store/apps/details?id=org.ccf.patientapp" sparkle:version="1.15.0" sparkle:os="iOS" />
+         <enclosure url="https://teslawings.github.io/releases/api/latest/latest.zip" sparkle:version="2.0" length="12288" type="application/octet-stream" sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ=="/>
       </item>
    </channel>
 </rss>
