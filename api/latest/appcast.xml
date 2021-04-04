@@ -5,9 +5,9 @@
         <title>Clean Architecture</title>
         <language>en</language>
         <item>
-            <title>Clean Architecture 1.0.0.2</title>
-            <pubDate>Sat, 03 Apr 2021 02:50:50 +08:00</pubDate>
-            <enclosure url="https://teslawings.github.io/releases/api/latest/mysetup+1.0.0.2.exe" sparkle:version="1.0.0.2" sparkle:shortVersionString="1.0.0" length="15725045" sparkle:os="windows" type="application/octet-stream" sparkle:signature="wlgguAfGRI7VqPiTz+rFlbjvHovJjAmLNSlmvGaApKNOAWouLlsGSBbm/ZhaiQ4Qyl2LelgBBui8j5wJvsXHBA==" />
+            <title>Clean Architecture 1.0.0.2                                           </title>
+            <pubDate>Mon, 05 Apr 2021 00:53:48 +08:00</pubDate>
+            <enclosure url="https://teslawings.github.io/releases/api/latest/mysetup.exe" sparkle:version="1.0.0.2                                           " sparkle:shortVersionString="1.0.0" length="15720618" sparkle:os="windows" type="application/octet-stream" sparkle:signature="2kvMp52rnumTo4GZnnFNdZ2FrzJG25E6RGuj3vB+IGRVz8ZsnaHLOvuTXnthFyvtDNBTxiWBqhP9msviZF6lAQ==" />
         </item>
     </channel>
 </rss>
